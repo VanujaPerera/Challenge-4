@@ -1,0 +1,11 @@
+John Smith: Final Exam: 95, Average: 79.70, Grade: C
+Jane Johnson: Final Exam: 48, Average: 60.10, Grade: D
+Jack Williams: Final Exam: 80, Average: 68.60, Grade: D
+Mary Jones: Final Exam: 100, Average: 65.90, Grade: D
+
+Grade distribution:
+A: 0
+B: 0
+C: 1
+D: 3
+F: 0

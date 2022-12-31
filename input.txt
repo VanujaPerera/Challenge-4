@@ -1,0 +1,13 @@
+4
+Smith, John
+English
+67 72 95
+Johnson, Jane
+Science
+85 29 95 48
+Williams, Jack
+Science
+50 60 72 80
+Jones, Mary
+Math
+10 20 31 44 50 63 70 81 94 100
